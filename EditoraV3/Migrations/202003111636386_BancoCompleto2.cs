@@ -1,0 +1,16 @@
+﻿namespace EditoraV3.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class BancoCompleto2 : DbMigration
+    {
+        public override void Up()
+        {
+        }
+        
+        public override void Down()
+        {
+        }
+    }
+}
