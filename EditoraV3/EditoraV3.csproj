@@ -209,13 +209,13 @@
     <Compile Include="Grafo\grafoh.cs" />
     <Compile Include="Grafo\indicacao.cs" />
     <Compile Include="Grafo\Vertice.cs" />
-    <Compile Include="Migrations\202003111331500_Banco_Completo.cs" />
-    <Compile Include="Migrations\202003111331500_Banco_Completo.designer.cs">
-      <DependentUpon>202003111331500_Banco_Completo.cs</DependentUpon>
+    <Compile Include="Migrations\202003250221413_Initial.cs" />
+    <Compile Include="Migrations\202003250221413_Initial.designer.cs">
+      <DependentUpon>202003250221413_Initial.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202003111636386_BancoCompleto2.cs" />
-    <Compile Include="Migrations\202003111636386_BancoCompleto2.designer.cs">
-      <DependentUpon>202003111636386_BancoCompleto2.cs</DependentUpon>
+    <Compile Include="Migrations\202003250224018_Banco1.cs" />
+    <Compile Include="Migrations\202003250224018_Banco1.designer.cs">
+      <DependentUpon>202003250224018_Banco1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Autor.cs" />
@@ -324,11 +324,11 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202003111331500_Banco_Completo.resx">
-      <DependentUpon>202003111331500_Banco_Completo.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202003250221413_Initial.resx">
+      <DependentUpon>202003250221413_Initial.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202003111636386_BancoCompleto2.resx">
-      <DependentUpon>202003111636386_BancoCompleto2.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202003250224018_Banco1.resx">
+      <DependentUpon>202003250224018_Banco1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
